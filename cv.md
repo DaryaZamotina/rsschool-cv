@@ -14,13 +14,12 @@ Hello! My name is Darya and I'm 38. During more than 15 years I'm working in the
 
 
 ## *Education*
-University  | Period | Degree
-:-----------: | :------: | :-------:
-Saint-Petersburg State Polytechnic University, Physical and mechanical department |  09/2002 - 06/2006  | bachelor's degree of physics
-Saint-Petersburg State Polytechnic University, Physical and mechanical department  | 09/2006 - 06/2008 | Master's degree of biophysics
-Saint-Petersburg State Pedagogical University, Legal department  |  09/2009 - 10/2012  |  Civil law specialist
-****
-* Courses of Hexlet "Basic knowledges about modern layout", 2023; "Introduction into Git", 2023
+
+- Saint-Petersburg State Polytechnic University, Physical and mechanical department, 09/2002 - 06/2006, bachelor's degree of physics
+- Saint-Petersburg State Polytechnic University, Physical and mechanical department, 09/2006 - 06/2008, Master's degree of biophysics
+- Saint-Petersburg State Pedagogical University, Legal department, 09/2009 - 10/2012, Civil law specialist
+------------------
+- Courses of Hexlet "Basic knowledges about modern layout", 2023; "Introduction into Git", 2023
 
 
 ## *Skills*
@@ -34,7 +33,7 @@ Saint-Petersburg State Pedagogical University, Legal department  |  09/2009 - 10
 
 ## *Codes example in Codewars*
 
-1. > 7 kyu  Shortest Word
+> 7 kyu  Shortest Word
 DESCRIPTION:
 Simple, given a string of words, return the length of the shortest word(s). String will never be empty and you do not need to account for different data types.
 
@@ -52,7 +51,7 @@ function findShort(s){
 }
 ```
 
-2. > 7 kyu Build a square
+> 7 kyu Build a square
 DESCRIPTION:
 I will give you an integer. Give me back a shape that is as long and wide as the integer. The integer will be a whole number between 1 and 50.
  
