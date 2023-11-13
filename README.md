@@ -1,1 +1,1 @@
-https://DaryaZamotina.github.io/rsschool-cv/index
+https://DaryaZamotina.github.io/rsschool-cv/
